@@ -1,4 +1,7 @@
 # 🤖 Lumi AI – Voice Chatbot
+## 📸 Project Preview
+
+![Lumi AI Preview](lumi-ai-preview.png)
 
 Lumi AI is a voice-enabled AI chatbot built using Python in Google Colab. It integrates speech recognition, a Large Language Model from Hugging Face, and text-to-speech to create an interactive conversational experience.
 
